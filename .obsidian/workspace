@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "02184a35b9e31d5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6df52e0183faab8a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e2124ba43186322",
+    "type": "split",
+    "children": [
+      {
+        "id": "7634f78bd1f2381d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b02727f13d210cfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9931a1c74d0f9b27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#combat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8aad9c3d729ae7b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3dfbcb225916c253",
+    "type": "split",
+    "children": [
+      {
+        "id": "683f883d0422ff2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a0ba25e099f5509",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ca90142883b965f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "693d535d25e00ad2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "70b90446766cfd7b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f2721dacfeed01a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9919f9cec4314de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 608
+  },
+  "active": "6df52e0183faab8a",
+  "lastOpenFiles": [
+    "fire superiority.md",
+    "standart fire superiority protocol for a one man squad.md",
+    "Briefing.md",
+    "Order execution flow.md",
+    "landmark.md",
+    "move modes.md",
+    "adjusted fires.md",
+    "MVP.md",
+    "pinned down.md",
+    "personality.md"
+  ]
+}
